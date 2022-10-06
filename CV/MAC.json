@@ -1,0 +1,211 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jorge",
+      "surnames": "Marcos",
+      "description": "Soy Graduado en Ingeniería Electrónica, tengo un Máster en Project Management y estoy cursando un Máster en Sistemas Inteligentes en las especialidades de IA y Data Science. Soy una persona altamente motivada, muy trabajador, siempre en constante desarrollo personal y profesional. Actualmente tratando de reciclarme al sector IT, después de haber trabajado durante 6 años como Facility Manager, Project Manager o Technical Manager, pero siempre en relación al Real State y el Retail.\nMe apasiona la tecnología desde muy joven y por ello tomé la decisión de reciclarme a este sector, mi objetivo sería conseguir la posición de Project Manager o Product Manager, no puedo competir con gente que lleva años programando pero me considero un gran gestor de recursos y personas, puedo aportar referencias.\nPractico deporte a diario, cuido mi alimentación e intento aprender cada día, aunque suene idílico hacer todo esto es muy complicado y esto determina mi personalidad incansable e insaciable.",
+      "avatar": {
+        "alt": "image0.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/18/d7d47053-2465-4622-8cd8-665c10deba91_image0.jpeg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Castilla-La Mancha",
+        "municipality": "Toledo"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/Jorge_Marcos"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.codecademy.com/profiles/JotaEmme"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jorgemarcos90/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Junta de Comunidades de Castilla-La Mancha",
+          "image": {
+            "alt": "logonuevoazul_1_0.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/44291cb2-494f-40cc-8c0a-ccec0651b8ee_logonuevoazul_1_0.png"
+          },
+          "URL": "https://www.castillalamancha.es/"
+        },
+        "roles": [
+          {
+            "name": "AI Project Manager",
+            "startDate": "2021-11-01",
+            "challenges": [
+              {
+                "description": "- Writing specifications for AI/ML contracts, as:\no Digital Twins\no Citizen 360\no Citizen virtual wallet\no Public employment platform\no Air quality management\no Waste management\n- Strategic outsourcing management through specifications\n- Team management and achievement of objectives: KPIs, SLAs, etc.\n- Conflict management, problem solving and decision making"
+              }
+            ],
+            "competences": [
+              {
+                "name": "ArcGIS",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "IBM Watson",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Power BI",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SESCAM",
+          "image": {
+            "alt": "logos_sescam.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/06/0729a6aa-b5c5-4e53-a858-6126985ce8d5_logos_sescam.png"
+          },
+          "URL": "https://sanidad.castillalamancha.es/"
+        },
+        "roles": [
+          {
+            "name": "IT Project Manager",
+            "startDate": "2021-06-01",
+            "finishDate": "2021-11-01",
+            "challenges": [
+              {
+                "description": "- Strategic outsourcing management through specifications:\no Telecommunications infrastructure deployment: LAN, WAN, WIFI (Fujitsu)\no Workstations for sanitary workers deployment (Fujitsu)\no Augmented Reality patient guidance App (Fujitsu + ARSoft)\n- Team management and achievement of objectives: KPIs, SLAs, etc.\n- Conflict management, problem solving and decision making"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Office 365",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Taiga",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jupyter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "IBM Watson",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Project Management",
+        "startDate": "2017-10-01",
+        "finishDate": "2018-11-01",
+        "institution": {
+          "name": "Polytechnic University of Catalunya",
+          "URL": "https://www.talent.upc.edu/esp/estudis/formacio/curs/212300/master-project-management-industrial-serveis/",
+          "image": {
+            "alt": "Logo_cat.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/18/d68e77f4-38f4-47b2-b9fb-209e93a156c9_logo_cat.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Electronics Engineering",
+        "startDate": "2009-09-01",
+        "finishDate": "2014-06-01",
+        "institution": {
+          "name": "University of Castilla-La Mancha",
+          "URL": "https://www.uclm.es/es/estudios/grados/ingenieria-electronica-industrial-automatica",
+          "image": {
+            "alt": "Logo_uclm.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/18/df5e2069-320d-48d2-b80a-10b976cf229d_logo_uclm.png"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/jorgemarcos90/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Data Engineer",
+        "Data Scientist",
+        "Machine Learning Engineer"
+      ]
+    }
+  }
+}
