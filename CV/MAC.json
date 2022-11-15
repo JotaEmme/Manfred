@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -16,7 +16,8 @@
       "location": {
         "country": "España",
         "region": "Castilla-La Mancha",
-        "municipality": "Toledo"
+        "municipality": "Toledo",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -162,10 +163,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -251,6 +254,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         }
@@ -260,6 +267,7 @@
         "Data Scientist",
         "Machine Learning Engineer"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
