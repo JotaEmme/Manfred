@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -16,8 +16,7 @@
       "location": {
         "country": "España",
         "region": "Castilla-La Mancha",
-        "municipality": "Toledo",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Toledo"
       }
     },
     "relevantLinks": [
@@ -120,17 +119,53 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Tender: Espacio Ciudadano",
+          "description": "Implementation of the infrastructure and development of components necessary for the creation of a proactive and adaptable Espacio Ciudadano. Involved in lots 2, 3 and 6.",
+          "URL": "https://contrataciondelestado.es/wps/poc?uri=deeplink%3Adetalle_licitacion&idEvl=bH%2FufPp4FfsBPRBxZ4nJ%2Fg%3D%3D",
+          "image": {
+            "alt": "Logo_JCCM1509453879955.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/15/7d540cf7-871e-4f92-8372-69f3dec15051_logo_jccm15094538799.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-11-01",
+            "competences": [
+              {
+                "name": "ArcGIS",
+                "type": "technology"
+              },
+              {
+                "name": "IBM Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "IBM Watson",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Power BI",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Native or bilingual proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -225,7 +260,6 @@
         "Data Scientist",
         "Machine Learning Engineer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
