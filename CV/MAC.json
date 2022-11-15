@@ -142,13 +142,25 @@
       },
       {
         "skill": {
-          "name": "Jupyter",
+          "name": "Azure",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "IBM Watson",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jupyter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
           "type": "technology"
         }
       },
