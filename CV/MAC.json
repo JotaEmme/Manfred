@@ -208,7 +208,7 @@
     ],
     "studies": [
       {
-        "studyType": "unaccredited",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Project Management",
         "startDate": "2017-10-01",
